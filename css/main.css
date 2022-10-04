@@ -102,7 +102,7 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Dosis', sans-serif;
   padding: 2em;
   font-size: 1.25em;
   height: 100%;
@@ -119,8 +119,10 @@ body {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   color: #fff;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
+  font-size: 1.3em;
+  background-color: #8b8989;
+  border-right:#000 2px solid;
+  border-left: #000 2px solid;;
   height: 300px;
   width: 30%;
   display: flex;
